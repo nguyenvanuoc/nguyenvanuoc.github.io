@@ -1,0 +1,321 @@
+1468483438
+a:2:{s:7:"content";s:21845:"<div class="wrapper">
+        <div class="container">
+            <div class="top-info">
+                <div class="avatar os-animation" data-os-animation="fadeInUp" data-os-animation-delay="0.2s" ><img src="images/avatar.png" alt="Nguyễn Văn Ước"></div>
+                <div class="info os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.2s" >
+
+                    <h1 class="name">Nguyễn Văn Ước</h1>
+                    <p class="position">Nhân viên thiết kế</p>
+                    <ul class="list-info">
+                        <li><i class="fa fa-calendar"></i> Ngày sinh: 12/23/1991</li>
+                        <li><i class="fa fa-map-marker"></i> Địa chỉ: Số 10/86 Phùng Khoang - Trung Văn - Từ Liêm - Hà Nội</li>
+                        <li><i class="fa fa-mobile"></i> Điện thoại: 0911118683</li>
+                        <li><i class="fa fa-envelope"></i> Email: vanuoc.haui@gmail.com</li>
+                        <li><a href="http://nguyenvanuoc.com" title="Nguyễn Văn Ước"><i class="fa fa-globe"></i> Website: http://nguyenvanuoc.com</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="box-content borb1 mar0 padb20 pad0">
+                <h2 class="title-experience os-animation" data-os-animation="bounceInUp" data-os-animation-delay="0.2s">Giới thiệu bản thân</h2>
+                <div class="content os-animation" data-os-animation="bounceInRight" data-os-animation-delay="0.2s">
+                    <div class="description">
+                        <p>Tôi sinh ra và lớn lên ở Bắc Giang, tôi tốt nghiệp kỹ sư công nghệ thông tin tại Đại học Công Nghiệp Hà Nội năm 2013 và chứng chỉ HDSE Bach Khoa Aptech. Trong thời gian đi học tôi đã tham gia một số hoạt động của đoàn đội như thiết kế băng rôn, hội thảo... Tôi đã tham gia một số cuộc thi và giành một số giải thưởng nhất định.</p>
+                        <p>Trong thời gian đi học tôi có đi làm ở một số công ty để tích lũy kinh nghiệm trước khi ra trường nên hiện tại tôi có gần 4 năm kinh nghiệm làm trong lĩnh vực này.</p>
+                        <p>Triết lý sống của tôi là: "Cứ đi, phía trước sẽ có đường".</p>
+                        <p>Tôi có tính cách dễ gần, thích giao lưu kết bạn, thích đọc sách, chạy bộ...</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="box-proccess">
+                <h2 class="title-experience os-animation" data-os-animation="wobble" data-os-animation-delay="0.4s" >Học vấn và kinh nghiệm</h2>
+                <div class="box-experience mart20">
+                    <div class="sidebar os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.4s">
+                        <div class="title-year">Giới thiệu <span class="node"></span></div>
+                        <p class="year-start">Tháng 9 - 2009</p>
+                        <p class="logo"><img src="images/logo-haui.png" align="Đại học công nghiệp Hà Nội"></p>
+                        <p class="year-end">August 2013</p>
+                    </div>
+                    <div class="right-content os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.4s">
+                        <div class="title-year"></div>
+                        <p class="name-company">Học công nghệ thông tin</p>
+                        <p class="description marb10">Đại học Công Nghiệp Hà Nội</p>
+                        <p class="name-company">Tốt nghiệp kỹ sư CNTT </p>
+                        <p class="description">Đại học Công Nghiệp Hà Nội</p>
+                    </div>
+                </div>
+                <div class="box-experience">
+                    <div class="sidebar os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.4s">
+                        <div class="title-year">Năm 2012 <span class="node"></span></div>
+                        <p class="year-start">Tháng 3/2012 - Tháng 8/2012</p>
+                        <p class="logo"><img src="images/logo-lbl.png" align="Công ty cổ phần Lê Bảo Long"></p>
+                    </div>
+                    <div class="right-content os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.4s">
+                        <div class="title-year"></div>
+                        <p class="name-company">Công ty CP Truyền Thông Lê Bảo Long</p>
+                        <p class="description c-yellow marb10">Nhân Viên Thiết Kế</p>
+                        <p class="description"><i class="fa fa-bookmark"></i> Thiết kế wapsite, ứng dụng di động, xử lý hình ảnh, banner, quảng cáo...</p>
+                    </div>
+                </div>
+                <div class="box-experience">
+                    <div class="sidebar os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.4s">
+                        <div class="title-year">Năm 2013<span class="node"></span></div>
+                        <p class="year-start">Tháng 8/2012 - Tháng 3/2013</p>
+                        <p class="logo"><img src="images/logo-actech.png" align="Công ty cổ phần actech"></p>
+                    </div>
+                    <div class="right-content os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.4s">
+                        <div class="title-year"></div>
+                        <p class="name-company">Công ty TNHH Điện Tử - Tự Động Hóa Actech</p>
+                        <p class="description c-yellow marb10">Nhân Viên Thiết Kế</p>
+                        <p class="description"><i class="fa fa-bookmark"></i> Thiết kế wapsite, ứng dụng di động, xử lý hình ảnh, banner, quảng cáo...</p>
+                    </div>
+                </div>
+                <div class="box-experience">
+                    <div class="sidebar os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.4s">
+                        <p class="year-start mart20">Tháng 3/2013 - Tháng 7/2013</p>
+                        <p class="logo"><img src="images/logo-tessi.png" align="Công ty cổ phần Tessi Asia"></p>
+                    </div>
+                    <div class="right-content padt0 os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.4s">
+                        <p class="name-company mart20">Công ty TNHH Tessia Asia</p>
+                        <p class="description c-yellow marb10">Nhân Viên Thiết Kế</p>
+                        <p class="description"><i class="fa fa-bookmark"></i> Thiết kế wapsite, ứng dụng di động, xử lý hình ảnh, banner, quảng cáo..</p>
+                        <p>Cắt PSD to HTML/CSS, js, Responsive with Bootstrap 3, Zcs, Less, Html5/css3...</p>
+                    </div>
+                </div>
+                <div class="box-experience">
+                    <div class="sidebar os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.4s">
+                        <div class="title-year">2013 - 2015<span class="node"></span></div>
+                        <p class="year-start">Tháng 7/2013 - Tháng 9/2015</p>
+                        <p class="logo"><img src="images/logo_minhviet.png" align="Công ty cổ phần Minh Việt"></p>
+                    </div>
+                    <div class="right-content os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.4s">
+                        <div class="title-year"></div>
+                        <p class="name-company">Công ty Cổ phần Công Nghệ Cao Minh Việt</p>
+                        <p class="description c-yellow marb10">Nhân Viên Thiết Kế</p>
+                        <p class="description"><i class="fa fa-bookmark"></i>Thiết kế wapsite, ứng dụng di động, xử lý hình ảnh, banner, quảng cáo..</p>
+                        <p>Cắt PSD to HTML/CSS, js, Responsive with Bootstrap 3, Zcs, Less, Html5/css3</p>
+                    </div>
+                </div>
+                <div class="box-experience">
+                    <div class="sidebar os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.4s">
+                        <div class="title-year">2015 - 2016<span class="node"></span></div>
+                        <p class="year-start">Tháng 11/2015 - Đến nay</p>
+                        <p class="logo"><img src="images/logo-nhanhoa.png" align="Công ty TNHH Phần mềm Nhân Hòa"></p>
+                    </div>
+                    <div class="right-content os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.4s">
+                        <div class="title-year"></div>
+                        <p class="name-company">Công ty TNHH Phần mềm Nhân Hòa</p>
+                        <p class="description c-yellow marb10">Nhân Viên Thiết Kế</p>
+                        <p class="description"><i class="fa fa-bookmark"></i>Thiết kế website, xử lý hình ảnh, banner, quảng cáo, thiết kế giao diện website..</p>
+                        <p>Cắt PSD to HTML/CSS, js, Responsive with Bootstrap 3, Zcs, Less, Html5/css3</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box-content bort1">
+                <h2 class="title-experience os-animation" data-os-animation="bounceInUp" data-os-animation-delay="0.2s">Kỹ năng và Công cụ</h2>
+                <div class="content os-animation" data-os-animation="bounceInRight" data-os-animation-delay="0.2s">
+                    <div class="item">
+                        <div class="name">Adobe Photoshop</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Adobe Illustrator</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Corel Draw</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item active"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Adobe Dreamweaver</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">HTML & CSS</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Creative Design</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Web Development</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Seo</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item active"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Marketing</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item active"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Less</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Bootstrap</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">PHP/MySQL</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item active"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="name">Adobe Premire</div>
+                        <div class="box-node">
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item"></span>
+                            <span class="node-item active"></span>
+                            <span class="node-item  active"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="box-content bort1">
+                <h2 class="title-experience os-animation" data-os-animation="bounceInUp" data-os-animation-delay="0.2s">Giải thưởng</h2>
+                <div class="content os-animation" data-os-animation="bounceInRight" data-os-animation-delay="0.2s">
+                    <ul class="box-prize">
+                        <li><i class="fa fa-certificate"></i> Giải nhì Tay nghề Thiết kế đồ họa Thành Phố Hà Nội năm 2011</li>
+                        <li><i class="fa fa-certificate"></i> Giải nhất Tay nghề  Thiết kế đồ họa Thành Phố Hà Nội năm 2012</li>
+                        <li><i class="fa fa-certificate"></i> Giải khuyến khíchh Tay nghề Thiết kế đồ họa Quốc Gia năm 2012</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="box-content bort1">
+                <h2 class="title-experience os-animation" data-os-animation="bounceInUp" data-os-animation-delay="0.2s">Dự án đã thực hiện</h2>
+                <div class="content os-animation" data-os-animation="bounceInRight" data-os-animation-delay="0.2s">
+                    <div class="box-list-project">
+                        <a href="http://sanhrong.com">http://sanhrong.com</a>
+                        <a href="http://mic.gov.vn">http://mic.gov.vn</a>
+                        <a href="http://nguyenvanuoc.com/ageloc">http://nguyenvanuoc.com/ageloc</a>
+                        <a href="http://vnta.gov.vn/Trang/default.aspx">http://vnta.gov.vn/Trang/default.aspx</a>
+                        <a href="http://hvctcand.edu.vn/">http://hvctcand.edu.vn/</a>
+                        <a href="http://minhquanjsc.vn/">http://minhquanjsc.vn/</a>
+                        <a href="http://vietclever.vn">http://vietclever.vn</a>
+                        <a href="http://vnimm.gov.vn/">http://vnimm.gov.vn/</a>
+                        <a href="http://nguyenvanuoc.com/beeplus">http://nguyenvanuoc.com/beeplus</a>
+                        <a href="http://nguyenvanuoc.com/baochivietnam">http://nguyenvanuoc.com/baochivietnam</a>
+                        <a href="http://nguyenvanuoc.com/htc-auto">http://nguyenvanuoc.com/htc-auto</a>
+                        <a href="http://nguyenvanuoc.com/itsevice">http://nguyenvanuoc.com/itsevice</a>
+                        <a href="http://nguyenvanuoc.com/MHVietNam">http://nguyenvanuoc.com/MHVietNam</a>
+                        <a href="http://nguyenvanuoc.com/minhviet-admin">http://nguyenvanuoc.com/minhviet-admin</a>
+                        <a href="http://nguyenvanuoc.com/ttnv">http://nguyenvanuoc.com/ttnv</a>
+                        <a href="http://nguyenvanuoc.com/tuixachdep">http://nguyenvanuoc.com/tuixachdep</a>
+                        <a href="http://nguyenvanuoc.com/VanPhongXanh">http://nguyenvanuoc.com/VanPhongXanh</a>
+                        <a href="http://nguyenvanuoc.com/cmsbinhduong">http://nguyenvanuoc.com/cmsbinhduong</a>
+                        <a href="http://nguyenvanuoc.com/bds1">http://nguyenvanuoc.com/bds1</a>
+                        <a href="http://nguyenvanuoc.com/bds2">http://nguyenvanuoc.com/bds2</a>
+                        <a href="http://nguyenvanuoc.com/e-pay">http://nguyenvanuoc.com/e-pay</a>
+                        <a href="http://nguyenvanuoc.com/fashion">http://nguyenvanuoc.com/fashion</a>
+                        <a href="http://nguyenvanuoc.com/furniture">http://nguyenvanuoc.com/furniture</a>
+                        <a href="http://nguyenvanuoc.com/ic24h">http://nguyenvanuoc.com/ic24h</a>
+                        <a href="http://nguyenvanuoc.com/hatlanh">http://nguyenvanuoc.com/hatlanh</a>
+                        <a href="http://nguyenvanuoc.com/luattaybac">http://nguyenvanuoc.com/luattaybac</a>
+                    </div>
+                </div>
+            </div>
+            <div class="box-cv-online">
+                <div class="box-link">
+                    <div class="icon">
+                        <i class="fa fa-link"></i>
+                    </div>
+                    <div class="text">CV Online Vietnamese</div>
+                    <a class="link" href="http://goo.gl/BJ8k1m">http://goo.gl/BJ8k1m</a>
+                </div>
+                <div class="box-link">
+                    <div class="icon">
+                        <i class="fa fa-link"></i>
+                    </div>
+                    <div class="text">CV Online English</div>
+                    <a class="link" href="http://goo.gl/ACkrBz">http://goo.gl/ACkrBz</a>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="text-footer os-animation" data-os-animation="flipInX" data-os-animation-delay="0.4s">Thông tin chi tiết và sản phẩm ở....</div>
+                <i class="fa fa-angle-double-down fa-tran "></i>
+                <div class="box-link-profilo os-animation" data-os-animation="lightSpeedIn" data-os-animation-delay="0.4s">
+                    <span class="arrow right"></span>
+                    <span class="arrow left"></span>
+
+                    <a href="http://nguyenvanuoc.com">http://nguyenvanuoc.com</a>
+                    <a href="https://www.behance.net/uocnguyen">https://www.behance.net/uocnguyen</a>
+                </div>
+            </div>
+        </div>
+    </div>";s:12:"content_meta";N;}
